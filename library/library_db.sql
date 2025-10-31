@@ -63,8 +63,17 @@ INSERT INTO `books` (`id`, `title`, `author`, `year`, `stock`) VALUES
 (2, 'Adventures of Huckleberry Finn', 'Mark Twain', 1884, 4),
 (3, 'Frankenstein; or, The Modern Prometheus', 'Mary Wollstonecraft Shelley', 1818, 3),
 (4, 'The Picture of Dorian Gray', 'Oscar Wilde', 1890, 2),
-(5, 'Dracula', 'Bram Stoker', 1897, 3);
-
+(5, 'Dracula', 'Bram Stoker', 1897, 3),
+(6, 'Moby-Dick; or, The Whale', 'Herman Melville', 1851, 3),
+(7, 'Les Misérables', 'Victor Hugo', 1862, 2),
+(8, 'War and Peace', 'Leo Tolstoy', 1869, 3),
+(9, 'Crime and Punishment', 'Fyodor Dostoevsky', 1866, 2),
+(10, 'The Count of Monte Cristo', 'Alexandre Dumas', 1844, 3),
+(11, 'A Tale of Two Cities', 'Charles Dickens', 1859, 2),
+(12, 'The Adventures of Sherlock Holmes', 'Arthur Conan Doyle', 1892, 3),
+(13, 'The Brothers Karamazov', 'Fyodor Dostoevsky', 1880, 1),
+(14, 'The War of the Worlds', 'H. G. Wells', 1898, 3),
+(15, 'The Call of the Wild', 'Jack London', 1903, 2);
 -- --------------------------------------------------------
 
 --
